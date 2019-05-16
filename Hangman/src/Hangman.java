@@ -3,8 +3,6 @@ import java.util.Set;
 import java.util.LinkedHashSet;
 import java.util.Random;
 
-//This was added in Github
-
 public class Hangman {
 
 	public static void main(String[] args) {
