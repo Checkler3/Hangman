@@ -78,6 +78,10 @@ public class Hangman {
 					
 					if (isTheWordGuessed(playGuesses)) {
 						successfulGuess = true;
+						
+						
+						System.out.println("The word was: ");
+						printArray(playGuesses);
 						System.out.println("Congratulations! You Won!");
 								
 					}					
