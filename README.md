@@ -1,2 +1,2 @@
 # Hangman
-Simple Hangman game
+Simple text based Hangman game
